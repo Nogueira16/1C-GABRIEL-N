@@ -101,6 +101,12 @@ h2 {
     text-align: right;
 }
 
+}
+#aluno{
+ background: lightred;
+}
+
+
 #aluno {
     font-size: 20px;
     color: lightcoral;
